@@ -1,0 +1,6 @@
+{
+  "name": "Journal",
+  "description": "A personal journaling app for offline mood and thought tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
